@@ -1,19 +1,24 @@
-📔 K-Pop Idol Digital Stickerbook
-Hey there! Welcome to my digital collection. 🌟
-I'm building this project because I wanted to create a modern way to "collect" my favorite idols. Instead of just looking at a static gallery, I wanted something that feels like a real, physical sticker book—but with the power of the web!
+# 👋 Hi, I'm Jamal
 
-What's This?
-This isn't just a simple website; it's a dynamic Stickerbook Engine.
-I combined clean UI design with interactive 3D physics. You can search for any idol, and the app "prints" a new high-quality trading card into your personal album. I used some creative CSS shadows and 3D transforms to make the cards feel like they are popping right out of the screen.
+💻 IT Specialist – System Integration based in Germany.
 
-How to See It
-Just open index.html in your browser and start building your collection!
+Currently working in **IT Support (1st–3rd Level)** with experience in **networking, infrastructure and troubleshooting**.
 
-The Fun Bits
-Interactive Unboxing: Cards react to your mouse—drag them to see the 3D depth.
+## 🚀 What this GitHub is about
 
-Infinite Collection: Use the search bar to find and add any idol instantly.
+This account documents my journey into **software development and automation**.
+I'm building projects to improve my skills in **Python, programming and modern development tools**.
 
-Premium Look: Each card features a glassmorphism effect and a custom glow.
+## ⚙️ Tech & Interests
 
-Smart Layout: Your stickers automatically organize themselves into a beautiful grid.
+Python • Automation • Networking (Cisco) • Infrastructure • Cyber Security
+
+## 📚 Currently Learning
+
+* Programming fundamentals
+* Building small software tools
+* Automation for IT processes
+
+## 🎯 Goal
+
+To grow into a role where I can combine **IT infrastructure knowledge with software development and automation**.
